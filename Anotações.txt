@@ -1,0 +1,8 @@
+Primeiro, foi criado o repositório https://github.com/felipeav/primeiro-repositorio no GitHub.
+
+Em seguinda, em uma pasta já criada, utilizei o "Git Bash here" para clonar o conteúdo do servidor para meu repositório local.
+
+Incluí este documento com anotações.
+
+
+
